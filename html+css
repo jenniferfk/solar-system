@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Solar System </title>
+    <title>Solar </title>
     <style>
         body{
           margin: 0; 
@@ -327,43 +327,43 @@
             100% { transform: translateX(20px) rotate(360deg); }
         }
         @keyframes orbitearth {
-          0% { transform: translateX(0px) rotate(0deg); }
-            100% { transform: translateX(0px) rotate(360deg); }
+          0% { transform:  rotate(0deg); }
+            100% { transform:  rotate(360deg); }
             
         }
         @keyframes orbitmercury {
-            0% { transform: translateX(0px) rotate(0deg); }
-            100% { transform: translateX(0px) rotate(360deg); }
+            0% { transform: rotate(0deg); }
+            100% { transform:rotate(360deg); }
           
         }
         @keyframes orbitvenus {
-            0% { transform: translateX(0px) rotate(0deg); }
-            100% { transform: translateX(0px) rotate(360deg); }
+            0% { transform:  rotate(0deg); }
+            100% { transform:  rotate(360deg); }
           
         }
         @keyframes orbitmars {
-            0% { transform: translateX(0px) rotate(0deg); }
-            100% { transform: translateX(0px) rotate(360deg); }
+            0% { transform:  rotate(0deg); }
+            100% { transform:  rotate(360deg); }
           
         }
         @keyframes orbitjupiter {
-            0% { transform: translateX(0px) rotate(0deg); }
-            100% { transform: translateX(0px) rotate(360deg); }
+            0% { transform:  rotate(0deg); }
+            100% { transform:  rotate(360deg); }
           
         }
         @keyframes orbitsaturn {
-            0% { transform: translateX(0px) rotate(0deg); }
-            100% { transform: translateX(0px) rotate(360deg); }
+            0% { transform:  rotate(0deg); }
+            100% { transform:  rotate(360deg); }
           
         }
         @keyframes orbituranus{
-            0% { transform: translateX(0px) rotate(0deg); }
-            100% { transform: translateX(0px) rotate(360deg); }
+            0% { transform: rotate(0deg); }
+            100% { transform:  rotate(360deg); }
           
         }
         @keyframes orbitneptune {
-            0% { transform: translateX(0px) rotate(0deg); }
-            100% { transform: translateX(0px) rotate(360deg); }
+            0% { transform:  rotate(0deg); }
+            100% { transform: rotate(360deg); }
           
         }
         
